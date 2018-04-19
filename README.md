@@ -2,9 +2,9 @@
 
 3D-printing store
 
-to be continued...
-
 ---
+
+## 知识储备
 
 makefile - qt之[qmake](http://www.kuqin.com/qtdocument/qmake-manual-5.html)
 - 环境变量
@@ -19,4 +19,6 @@ qt
 - 对象模型特点
 - 信号和槽
 
+---
 
+to be continued...
