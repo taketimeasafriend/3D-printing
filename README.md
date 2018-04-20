@@ -6,6 +6,8 @@
 
 ## 知识储备
 
+### 语法
+
 1. makefile - qt之[qmake](http://www.kuqin.com/qtdocument/qmake-manual-5.html)
 - 环境变量
 - config 变量
@@ -30,11 +32,19 @@
 5. 模块
 - canvas-icon-OpenGL-数据库-网络...
 
+### 编译器
+
+- C++ - Qt Designer - QML http://c.biancheng.net/cpp/qt/
+- ...
+
 ## 配置
 
+- qt account
 - qt-opensource-windows-x86-msvc2015_64-5.8.0.exe
 - vs2015.pro_chs.iso
 - 3DTALK.exe
+
+
 
 ## ...
 
