@@ -30,6 +30,13 @@
 5. 模块
 - canvas-icon-OpenGL-数据库-网络...
 
+## 配置
+
+- qt-opensource-windows-x86-msvc2015_64-5.8.0.exe
+- vs2015.pro_chs.iso
+- 3DTALK.exe
+
+## ...
 
 
 
